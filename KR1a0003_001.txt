@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易鄭康成注
-#+DATE: 2015-09-23 09:34:08
+#+DATE: 2015-09-12 00:39:40.790024
+#+PROPERTY: ID KR1a0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB09n0685-001周易鄭康成注-卷一.
 <pb:KR1a0003_SBCK_001-1a>¶
 周易鄭康成注¶
 　　　　　　　　　　浚儀王應麟伯厚甫纂輯¶
@@ -571,4 +575,3 @@
 <pb:KR1a0003_SBCK_001-28a>¶
 ¶
 周易鄭康成注卷終¶
-
